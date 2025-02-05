@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.62.0 (2025-02-05)
+
+Full Changelog: [v1.61.1...v1.62.0](https://github.com/openai/openai-python/compare/v1.61.1...v1.62.0)
+
+### Features
+
+* **client:** send `X-Stainless-Read-Timeout` header ([#2094](https://github.com/openai/openai-python/issues/2094)) ([0288213](https://github.com/openai/openai-python/commit/0288213fbfa935c9bf9d56416619ea929ae1cf63))
+
+
+### Bug Fixes
+
+* **api:** add missing reasoning effort + model enums ([#2096](https://github.com/openai/openai-python/issues/2096)) ([dc97d05](https://github.com/openai/openai-python/commit/dc97d05efda5b0cde3b27811238ae14ca541e488))
+
 ## 1.61.1 (2025-02-05)
 
 Full Changelog: [v1.61.0...v1.61.1](https://github.com/openai/openai-python/compare/v1.61.0...v1.61.1)
